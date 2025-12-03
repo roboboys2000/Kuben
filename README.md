@@ -1,1 +1,19 @@
 # Kuben
+
+BOM
+
+MCU:
+ESP32
+
+IMU:
+ISM330DHCX
+
+FOC Controller:
+STM32
+
+MOTORDRIVER:
+DRV8316
+
+
+MOTOR:
+EC 45 Flat
