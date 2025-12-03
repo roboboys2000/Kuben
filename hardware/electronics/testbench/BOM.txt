@@ -1,0 +1,13 @@
+
+MCU
+https://no.mouser.com/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-2-N32R16V?qs=sGAEpiMZZMu3sxpa5v1qro5FY7hlnl9MGjSvu0Cu1eE%3D
+
+LDO 
+TBD 5V
+TBD 3.3V
+
+Motordriver Logic
+https://no.mouser.com/ProductDetail/STMicroelectronics/STM32F103C8T6?qs=bhCVus9SdFtq6kqxsU5%2FDA%3D%3D
+
+Motordriver execution 
+https://no.mouser.com/ProductDetail/Texas-Instruments/DRV8316CTRGFR?qs=rQFj71Wb1eXYnwHbQquJ2g%3D%3D
